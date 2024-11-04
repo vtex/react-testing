@@ -1,6 +1,6 @@
 {
   "name": "@vtex/test-tools",
-  "version": "3.4.3",
+  "version": "4.0.0-beta",
   "description": "VTEX IO testing tools",
   "repository": {
     "type": "git",
@@ -73,7 +73,7 @@
     "graphql": "^14.0.0",
     "graphql-tag": "^2.11.0",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^25.0.0",
+    "jest": "^27.0.0",
     "jest-transform-graphql": "^2.1.0",
     "react": "^16.9.0",
     "react-apollo": "^3.1.3",
