@@ -1,6 +1,6 @@
 {
   "name": "@vtex/test-tools",
-  "version": "4.0.0-beta",
+  "version": "4.0.0-beta.0",
   "description": "VTEX IO testing tools",
   "repository": {
     "type": "git",
